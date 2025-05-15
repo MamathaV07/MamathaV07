@@ -9,12 +9,12 @@ I'm an aspiring **front-end developer** currently learning **React.js, JavaScrip
 ### **Skills & Technologies (Learning) 🚀**  
 #### **Frontend Development:**  
 ✅ HTML5, CSS3  
-✅ JavaScript *(Currently Learning)*  
-✅ React.js *(Currently Learning)*  
-✅ Tailwind CSS *(Currently Learning)*  
+✅ JavaScript 
+✅ React.js 
+✅ TypeScript
 
 #### **Backend Development:**  
-✅ Python, Flask *(Exploring)*  
+✅ Python, Django
 ✅ RESTful APIs  
 
 #### **Programming & Tools:**  
