@@ -2,7 +2,7 @@
 
 
 ### **About Me 👨‍💻**  
-I'm an aspiring **front-end developer** currently learning **React.js, JavaScript, and Tailwind CSS** while strengthening my **DSA** skills. My goal is to become a **skilled full-stack developer**, so I'm also exploring **backend development with Python and Flask**. I enjoy solving coding challenges and working on projects to sharpen my skills.
+I'm an aspiring **front-end developer** currently learning **React.js, JavaScript, and Tailwind CSS** while strengthening my **DSA** skills. My goal is to become a **skilled full-stack developer**, so I'm also exploring **backend development with Python and Django**. I enjoy solving coding challenges and working on projects to sharpen my skills.
 
 ---
 
